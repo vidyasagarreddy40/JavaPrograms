@@ -32,7 +32,6 @@ public class nonrepeaingchars {
             li.add('_');
         }
 
-
         return li.get(0);
     }
 
