@@ -24,7 +24,6 @@ public class sudokuGrid {
                     System.out.println(a[i][k]);
                     if (temp == a[i][k]) {
                         isTrue = false;
-
                         System.out.println(temp + " is already exists in"+a[i][k]);
                     }
                 }
